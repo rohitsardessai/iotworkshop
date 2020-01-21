@@ -1,5 +1,5 @@
 # iotworkshop
-Code for IoT workshop using the ESP8266 NodeMCU. This covers a basic introductory workshop <br />
+Code for IoT workshop using the ESP8266 NodeMCU. This covers a basic introductory workshop: <br />
 Connect to WiFi <br />
 Stream simple data to ThingSpeak <br />
 Get simple Json string and parse it <br />
